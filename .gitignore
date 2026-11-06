@@ -1,0 +1,5 @@
+# rustc で直接コンパイルした実行ファイル（拡張子がないので1つずつ書く）
+hello_world/hello_world
+
+# Cargo のビルド結果
+target/
