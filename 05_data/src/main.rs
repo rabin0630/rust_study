@@ -24,3 +24,4 @@ fn main() {
     println!("The value of the element at index {index} is: {element}");
            // {index}番目の要素の値は{element}です
 }
+
